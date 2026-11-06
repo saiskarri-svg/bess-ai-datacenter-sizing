@@ -64,4 +64,4 @@ Default costs and prices are **illustrative round numbers, not quotes**. Change 
 
 ## About
 
-Built by **Sai Karri**, a PMP-certified project manager who delivers utility-scale and C&I battery storage projects and is moving into AI data center power infrastructure.
+Built by **Sai Karri**, a PMP-certified project manager who delivers utility-scale and C&I battery storage projects and is moving into AI data center power infrastructure. Companion project: [Solar PV & inverter sizing tool](https://github.com/saiskarri-svg/solar-inverter-sizing).
