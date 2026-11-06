@@ -1,5 +1,8 @@
 # Battery Storage Sizing for AI Data Centers
 
+**[▶ Try the live app](https://bess-ai-datacenter-sizing-jhoaqwoaaw95tmoelzzvbe.streamlit.app/)**  ·  no install needed
+
+
 **AI is now power-constrained.** New GPU campuses wait years for grid connections, rack densities have climbed past 100 kW, and synchronized training jobs swing the load of an entire cluster by tens of megawatts in about a second. Battery energy storage (BESS) can help with all three problems, but only if it is sized for the right job.
 
 This tool sizes a battery for a GPU cluster and tests whether it pays off.
@@ -64,4 +67,4 @@ Default costs and prices are **illustrative round numbers, not quotes**. Change 
 
 ## About
 
-Built by **Sai Karri**, a PMP-certified project manager who delivers utility-scale and C&I battery storage projects and is moving into AI data center power infrastructure. Companion project: [Solar PV & inverter sizing tool](https://github.com/saiskarri-svg/solar-inverter-sizing).
+Built by **Sai Karri**, a PMP-certified project manager who delivers utility-scale and C&I battery storage projects and is moving into AI data center power infrastructure. Companion project: [Solar PV & inverter sizing tool](https://github.com/saiskarri-svg/solar-inverter-sizing) ([live app](https://solar-inverter-sizing-jk7rep5yblztw2mqlwgpkf.streamlit.app/)).
